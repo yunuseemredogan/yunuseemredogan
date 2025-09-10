@@ -34,8 +34,8 @@
 ---
 
 #### 🏆 Projects
-   - 🏅 FPGA Design of ARM Cortex-M0: Designed and implemented an ARM Cortex-M0 processor on FPGA using VHDL, verified with testbenches in Xilinx Vivado, gaining expertise in processor architecture, hardware optimization, and embedded system design.
-   - 🏅 Live Broadcast Simulation: Developed a real-time video encoding and streaming system using Python, optimizing network transmission with VLAN configurations and mastering video streaming technologies and network protocols.
+   - 🏅 <b>FPGA Design of ARM Cortex-M0:</b> Designed and implemented an ARM Cortex-M0 processor on FPGA using VHDL, verified with testbenches in Xilinx Vivado, gaining expertise in processor architecture, hardware optimization, and embedded system design.
+   - 🏅 <b>Live Broadcast Simulation:</b> Developed a real-time video encoding and streaming system using Python, optimizing network transmission with VLAN configurations and mastering video streaming technologies and network protocols.
 
 ---
 
