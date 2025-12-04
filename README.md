@@ -46,13 +46,13 @@
 ---
 
 #### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yunuseemredogan&row=3&column=6&theme=radical)
-
----
+[![trophy](https://github-profile-trophy.vercel.app/?username=yunuseemredogan&theme=dracula&row=2&column=6&margin-w=15&margin-h=15&no-frame=false)](https://github.com/lucthienphong1120/github-trophies)
 
 #### 📊 GitHub Stats
-![Yunus Emre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yunuseemredogan&show_icons=true&theme=radical&cache_seconds=3600)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yunuseemredogan&layout=compact&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=3600)
+![Yunus Emre's GitHub stats](https://github-readme-stats-kyronsatt.vercel.app/api?username=yunuseemredogan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+#### 🔥 Top Languages
+![Top Langs](https://img.shields.io/badge/Top%20Languages-JS%20%7C%20Python%20%7C%20etc-blue?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
