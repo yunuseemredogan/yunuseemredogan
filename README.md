@@ -46,13 +46,14 @@
 ---
 
 #### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=yunuseemredogan&theme=radical&row=2&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yunuseemredogan&row=3&column=6&theme=radical)
+
+---
 
 #### 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yunuseemredogan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Yunus Emre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yunuseemredogan&show_icons=true&theme=radical&cache_seconds=3600)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yunuseemredogan&layout=compact&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=3600)
 
-#### 🔥 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunuseemredogan&layout=compact&theme=radical&hide_border=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 <!--
