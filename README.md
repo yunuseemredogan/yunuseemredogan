@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Yunus Emre 👋! </h1>
 <p align="center">
-  <i>I am a newly graduated Electrical and Electronics Engineer with expertise in embedded systems, digital electronics, and basic signal processing, eager to put theoretical knowledge into practice. I aim to develop solutions by participating in technology-focused projects.</i>
+  <i>I am a newly graduated Electrical & Electronics Engineer with expertise in embedded systems, hardware design, digital electronics, fundamental signal processing, satellite communications, broadcasting systems, and industrial automation. I am eager to apply theoretical knowledge to practical solutions. I aim to contribute to technology-focused projects by developing innovative solutions.</i>
 </p>
 
 ---
