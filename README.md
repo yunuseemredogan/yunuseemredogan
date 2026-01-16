@@ -26,8 +26,7 @@
 ##### ⚙️ Tools & Technologies
 ![Xilinx Vivado](https://img.shields.io/badge/Xilinx_Vivado-14054C?style=flat)
 ![Xilinx ISE](https://img.shields.io/badge/Xilinx_ISE-14254C?style=flat)
-![MATLAB](https://img.shields.io/badge/MATLAB-14454C?style=flat)
-![Simulink](https://img.shields.io/badge/Simulink-14054C?style=flat)
+![MATLAB/Simulink](https://img.shields.io/badge/MATLAB/Simulink-14054C?style=flat)
 ![Siemens TIA Portal](https://img.shields.io/badge/Siemens_TIA_Portal-14554C?style=flat)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-14354C?style=flat)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-14454C?style=flat)
