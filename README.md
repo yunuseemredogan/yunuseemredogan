@@ -32,8 +32,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-14354C?style=flat)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-14454C?style=flat)
 ![HTML/CCS](https://img.shields.io/badge/HTML/CCS-14154C?style=flat)
-![MS Word](https://img.shields.io/badge/MS_Word-14154C?style=flat)
-![MS Excel](https://img.shields.io/badge/MS_Excel-14154C?style=flat)
+![MS Word](https://img.shields.io/badge/MS_Word-00599C?style=flat)
+![MS Excel](https://img.shields.io/badge/MS_Excel-14554C?style=flat)
 ![MS PowePoint](https://img.shields.io/badge/MS_PowerPoint-ED8B00?style=flat)
 
 ---
