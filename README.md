@@ -20,6 +20,7 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat)
+![Ladder](https://img.shields.io/badge/Ladder-14354C?style=flat)
 
 
 ##### ⚙️ Tools & Technologies
@@ -29,7 +30,11 @@
 ![Simulink](https://img.shields.io/badge/Simulink-14054C?style=flat)
 ![Siemens TIA Portal](https://img.shields.io/badge/Siemens_TIA_Portal-14554C?style=flat)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-14354C?style=flat)
-![CCS](https://img.shields.io/badge/CCS-14154C?style=flat)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-14454C?style=flat)
+![HTML/CCS](https://img.shields.io/badge/HTML/CCS-14154C?style=flat)
+![MS Word](https://img.shields.io/badge/MS_Word-14154C?style=flat)
+![MS Excel](https://img.shields.io/badge/MS_Excel-14154C?style=flat)
+![MS PowePoint](https://img.shields.io/badge/MS_PowerPoint-ED8B00?style=flat)
 
 ---
 
