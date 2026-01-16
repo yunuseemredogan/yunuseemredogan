@@ -7,8 +7,8 @@
 
 #### 💻 About Me
    - 🌍 Based in Gölcük, Kocaeli, Turkey
-   - 🎓 Graduated from Eskişehir Technical University in Electrical and Electronics Engineering with a 3.04 GPA
-   - 💼 Internship experience at Türksat A.Ş. and Ford Otosan
+   - 🎓 Graduated from Eskişehir Technical University in Electrical & Electronics Engineering with a 3.04 GPA
+   - 💼 Internship experience at TÜRKSAT A.Ş. and FORD OTOSAN
    - 🌱 Exploring advanced embedded systems and industrial automation
 
 ---
